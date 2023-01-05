@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: maleanwei
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: maleanwei
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/maleanwei
     - https://github.com/Doratmon
 google_site_verification: xxxxx
 lang: zh
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: leanwe
-  url: https://github.com/vszhub/
+  url: https://github.com/Doratmon/
   email: lean.we@qq.com
