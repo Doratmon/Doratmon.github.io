@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: leanwe的博客
+description: 学习，生活和总结
+url: https://Doratmon.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -36,9 +36,9 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Doratmon
 google_site_verification: xxxxx
-lang: en
+lang: zh
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: leanwe
   url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  email: lean.we@qq.com
